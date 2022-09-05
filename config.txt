@@ -1,0 +1,38 @@
+
+
+{
+"app_id": "wxb1a7543c6f5cbc6f",
+"app_secret": "79112d4270442e26099a359a33e0eb50",
+
+"template_id": "BnjlfEfXPeAJBDa4EJP86WcXWlCwPB8BF7rso6-FALk",
+"user_id": ["oZf6Z5kWa-0VQRLULrMssNQjYW7M"],
+#"user_id": ["oZf6Z5kWa-0VQRLULrMssNQjYW7M" , "请替换为自己的 微信号 02"],
+
+"C_ShengFen": "广东",
+"C_ChengShi": "广州",
+"S_XingZuo": "处女座",
+
+"S_Love": "2022-07-13",
+"birthday1": "1999-08-24",
+"birthday2": "1998-11-21",
+
+"C_String01": "可以替换为自己想要的文字 01",
+"C_String02": "可以替换为自己想要的文字 02",
+"C_String03": "可以替换为自己想要的文字 03",
+
+
+# 天气预报
+"API_TQYB":"72579b7130f75d7f3fca67c7aa43694f",
+# 星座运势
+"API_XZYS":"72579b7130f75d7f3fca67c7aa43694f",
+
+# 早安心语
+"API_ZAXY":"72579b7130f75d7f3fca67c7aa43694f",
+# 晚安心语
+"API_WAXY":"72579b7130f75d7f3fca67c7aa43694f",
+
+# 舔狗日记
+"API_TGRJ":"72579b7130f75d7f3fca67c7aa43694f",
+# 土味情话
+"API_TWQH":"72579b7130f75d7f3fca67c7aa43694f"
+}
